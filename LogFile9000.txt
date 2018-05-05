@@ -1,0 +1,3136 @@
+
+** 17:58:59 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.New().
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+Warning: further proc crash messages are being suppressed to prevent overload...
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+Fri May 04 17:59:44 2018
+** 18:06:40 May, 04 2018 Server Shutdown Successfully **
+Average Players: 1 | CPU: 8%
+World opened on network port 9000.
+
+** 18:06:40 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: Cannot execute null.New().
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+  usr: null
+  src: 
+  src.loc: null
+  call stack:
+: New()
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+runtime error: BYOND Error: bad obj
+proc name: New (/obj/Skills/New)
+Warning: further proc crash messages are being suppressed to prevent overload...
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:13:29 May, 04 2018 Server Shutdown Successfully **
+Average Players: 1 | CPU: 5%
+World opened on network port 9000.
+
+** 18:13:29 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:20:19 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 1%
+World opened on network port 9000.
+
+** 18:21:10 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:23:44 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 1%
+World opened on network port 9000.
+
+** 18:32:16 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:33:07 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 2%
+World opened on network port 9000.
+
+** 18:33:58 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:34:49 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 1%
+World opened on network port 9000.
+
+** 18:35:40 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:35:40 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 6%
+World opened on network port 9000.
+
+** 18:37:23 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:42:30 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 0%
+World opened on network port 9000.
+
+** 18:42:30 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:45:55 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 0%
+World opened on network port 9000.
+World opened on network port 9000.
+World opened on network port 9000.
+World opened on network port 9000.
+World opened on network port 9000.
+World opened on network port 9000.
+
+** 18:48:28 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+** 18:48:28 May, 04 2018 Server Shutdown Successfully **
+World opened on network port 9000.
+
+** 18:48:28 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+Fri May 04 18:49:06 2018
+** 18:49:20 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 66%
+World opened on network port 9000.
+
+** 18:57:00 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+** 18:57:00 May, 04 2018 Server Shutdown Successfully **
+World opened on network port 9000.
+
+** 18:58:43 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 18:59:34 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 11%
+World opened on network port 9000.
+
+** 19:04:41 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+ ~ Mute List Reset ~ 
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 19:11:31 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 0%
+World opened on network port 9000.
+
+** 19:14:04 May, 04 2018 Running Bleach Eternity 2 Version 1.09 **
+ ~ Mute List Reset ~ 
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+BE Version is out of date
+BE Version is out of date
+** 19:14:04 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 0%
+World opened on network port 9000.
+
+** 19:14:56 May, 04 2018 Running Bleach Eternity 2 Version 1.09 **
+ ~ Mute List Reset ~ 
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+BE Version is out of date
+** 19:14:56 May, 04 2018 Server Shutdown Successfully **
+Average Players: 0 | CPU: 0%
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:0
+
+World opened on network port 9000.
+
+** 19:15:47 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+ ~ Mute List Reset ~ 
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+** 19:16:38 May, 04 2018 Server Reboot **
+Average Players: 0 | CPU: 0%
+
+** 19:16:38 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: CharCreation (48,10,2) (/turf/CharCreation/CharCreation)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Done (55,4,2) (/turf/CharCreation/Buttons/Done): Click(Done (55,4,2) (/turf/CharCreation/Buttons/Done), "MainWindow.MapMain", "icon-x=12;icon-y=18;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (50,89,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestComplete(25, "Basic Training", null, null, null, "/obj/Items/Potions/Energy_Drin...")
+Newbie Trainer (/obj/NPC/Newbie_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestComplete(50, "Combat Training", null, null, null, "/obj/Items/Potions/Phoenix_Fea...")
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestAdd("Hollow Practice", SideWalk (50,59,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (68,60,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): LevelCheck()
+Jackie (/mob/Player): GiveExp(170, "Killed Pounder")
+Pounder (/mob/Enemy/Hollows/Pounder): DeathCheck(Jackie (/mob/Player))
+Jackie (/mob/Player): Damage(Pounder (/mob/Enemy/Hollows/Pounder), 31, null, 1, "Melee")
+Jackie (/mob/Player): Attack(3)
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (49,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): LevelCheck()
+Jackie (/mob/Player): GiveExp(75, "Completed \'Hollow Practice\'")
+Jackie (/mob/Player): QuestComplete(75, "Hollow Practice", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (49,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestComplete(75, "Hollow Practice", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (49,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestComplete(125, "Level Training", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (50,52,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestAdd("Hollow Hunting", SideWalk (50,51,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (29,62,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): LevelCheck()
+Jackie (/mob/Player): GiveExp(330, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Jackie (/mob/Player))
+Jackie (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 40, null, 1, "Melee")
+Jackie (/mob/Player): Attack(3)
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (31,74,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): LevelCheck()
+Jackie (/mob/Player): GiveExp(160, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Jackie (/mob/Player))
+Jackie (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 46, null, 1, "Melee")
+Jackie (/mob/Player): Attack(3)
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (25,70,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestKillCheck(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow))
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Jackie (/mob/Player))
+Jackie (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 27, null, 1, "Melee")
+Jackie (/mob/Player): Attack(3)
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (40,39,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestKillCheck(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow))
+Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow): DeathCheck(Jackie (/mob/Player))
+Jackie (/mob/Player): Damage(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow), 46, null, 1, "Melee")
+Jackie (/mob/Player): Attack(3)
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (40,39,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): LevelCheck()
+Jackie (/mob/Player): GiveExp(100, "Killed Ground Hollow")
+Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow): DeathCheck(Jackie (/mob/Player))
+Jackie (/mob/Player): Damage(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow), 46, null, 1, "Melee")
+Jackie (/mob/Player): Attack(3)
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: AllPass (49,51,1) (/turf/Supplemental/AllPass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestComplete(250, "Hollow Hunting", null, null, null, null)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+** 19:31:08 May, 04 2018 Server Reboot **
+Average Players: 0 | CPU: 2%
+
+** 19:31:08 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): Load(Players/l/lestatanderson1.sav (/savefile))
+LoadGame (80,16,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (80,16,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=9;icon-y=28;left=1;scre...")
+** 19:35:24 May, 04 2018 Server Shutdown Successfully **
+Average Players: 1 | CPU: 2%
+World no longer opened to new users.
+World opened on network port 9000.
+
+** 19:36:16 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): Load(Players/l/lestatanderson1.sav (/savefile))
+LoadGame (81,17,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (81,17,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=5;icon-y=4;left=1;scree...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: CharCreation (48,10,2) (/turf/CharCreation/CharCreation)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Done (55,4,2) (/turf/CharCreation/Buttons/Done): Click(Done (55,4,2) (/turf/CharCreation/Buttons/Done), "MainWindow.MapMain", "icon-x=8;icon-y=27;left=1;scre...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (50,89,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(25, "Basic Training", null, null, null, "/obj/Items/Potions/Energy_Drin...")
+Newbie Trainer (/obj/NPC/Newbie_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(50, "Combat Training", null, null, null, "/obj/Items/Potions/Phoenix_Fea...")
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (167,32,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestAdd("Starting Out", Dirt (167,33,3) (/turf/Soul_Society/Dirt), /list (/list), 150, 0)
+Beginning Quester (/obj/NPC/Quest_Giver/Beginning_Quester): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Hollow Practice", SideWalk (50,59,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Grass (154,34,3) (/turf/Soul_Society/Grass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestComplete(150, "Starting Out", 0, 0, 0, "")
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Grass (154,34,3) (/turf/Soul_Society/Grass)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): QuestAdd("Academy Training", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 200, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Jackie (/mob/Player))
+Jackie (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (67,58,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(130, "Killed Pounder")
+Pounder (/mob/Enemy/Hollows/Pounder): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Pounder (/mob/Enemy/Hollows/Pounder), 39, null, 1, "Melee")
+Robin (/mob/Player): Attack(2)
+Robin (/mob/Player): MidAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (72,49,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(210, "Killed Flyte")
+Flyte (/mob/Enemy/Hollows/Flyte): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Flyte (/mob/Enemy/Hollows/Flyte), 27, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (51,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(75, "Hollow Practice", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (51,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(125, "Level Training", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (50,52,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Hollow Hunting", SideWalk (50,51,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (28,64,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(310, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 31, null, 1, "Melee")
+Robin (/mob/Player): Attack(2)
+Robin (/mob/Player): MidAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (32,63,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(160, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 36, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (11,59,1) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow))
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 34, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Fri May 04 19:50:02 2018
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (60,33,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(30, "Killed Pounder")
+Pounder (/mob/Enemy/Hollows/Pounder): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Pounder (/mob/Enemy/Hollows/Pounder), 38, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (27,31,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow))
+Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow), 48, null, 1, "Melee")
+Robin (/mob/Player): Attack(2)
+Robin (/mob/Player): MidAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (49,51,1) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(250, "Hollow Hunting", null, null, null, null)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (167,32,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Starting Out", Dirt (167,33,3) (/turf/Soul_Society/Dirt), /list (/list), 150, 0)
+Beginning Quester (/obj/NPC/Quest_Giver/Beginning_Quester): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(150, "Starting Out", 0, 0, 0, "")
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Academy Training", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 200, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (138,32,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(150, "Killed First Year Student")
+First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student), 38, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (131,36,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student))
+First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student), 45, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(200, "Academy Training", 0, 0, 0, "")
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Spyder Squasher", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 250, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: CharCreation (48,10,2) (/turf/CharCreation/CharCreation)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Done (55,4,2) (/turf/CharCreation/Buttons/Done): Click(Done (55,4,2) (/turf/CharCreation/Buttons/Done), "MainWindow.MapMain", "icon-x=15;icon-y=17;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (105,22,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(420, "Killed Mantaur")
+Mantaur (/mob/Enemy/Hollows/Mantaur): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Mantaur (/mob/Enemy/Hollows/Mantaur), 36, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): Load(Players/k/killadjkat1.sav (/savefile))
+LoadGame (79,16,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (79,16,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=28;icon-y=20;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (50,89,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(25, "Basic Training", null, null, null, "/obj/Items/Potions/Energy_Drin...")
+Newbie Trainer (/obj/NPC/Newbie_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(50, "Combat Training", null, null, null, "/obj/Items/Potions/Phoenix_Fea...")
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Hollow Practice", SideWalk (50,59,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (68,59,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(160, "Killed Pounder")
+Pounder (/mob/Enemy/Hollows/Pounder): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Pounder (/mob/Enemy/Hollows/Pounder), 23, null, 1, "Melee")
+Bob (/mob/Player): Attack(3)
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (51,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(75, "Hollow Practice", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (51,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(125, "Completed \'Level Training\'")
+Bob (/mob/Player): QuestComplete(125, "Level Training", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (51,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(125, "Level Training", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (107,42,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Spyder (/mob/Enemy/Hollows/Spyder))
+Spyder (/mob/Enemy/Hollows/Spyder): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Spyder (/mob/Enemy/Hollows/Spyder), 46, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (154,34,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(250, "Spyder Squasher", 0, 0, 0, "")
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (154,34,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Menacing Mantaurs", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 300, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (49,51,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Hollow Hunting", SideWalk (50,51,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (118,12,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(290, "Killed Mantaur")
+Mantaur (/mob/Enemy/Hollows/Mantaur): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Mantaur (/mob/Enemy/Hollows/Mantaur), 33, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (25,71,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(340, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 37, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(8, Dirt (20,71,1) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 48)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (34,70,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(170, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 37, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(8, Dirt (29,70,1) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 48)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (34,70,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow))
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 40, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(8, Dirt (32,70,1) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 48)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (27,30,1) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow))
+Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Ground Hollow (/mob/Enemy/Hollows/Ground_Hollow), 76, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Dirt (27,32,1) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 82.5)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (49,51,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(250, "Completed \'Hollow Hunting\'")
+Bob (/mob/Player): QuestComplete(250, "Hollow Hunting", null, null, null, null)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: AllPass (49,51,1) (/turf/Supplemental/AllPass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(250, "Hollow Hunting", null, null, null, null)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (166,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Starting Out", Dirt (167,33,3) (/turf/Soul_Society/Dirt), /list (/list), 150, 0)
+Beginning Quester (/obj/NPC/Quest_Giver/Beginning_Quester): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(150, "Starting Out", 0, 0, 0, "")
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Academy Training", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 200, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (106,20,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(220, "Killed Mantaur")
+Mantaur (/mob/Enemy/Hollows/Mantaur): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Mantaur (/mob/Enemy/Hollows/Mantaur), 51, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (117,19,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Mantaur (/mob/Enemy/Hollows/Mantaur))
+Mantaur (/mob/Enemy/Hollows/Mantaur): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Mantaur (/mob/Enemy/Hollows/Mantaur), 53, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (154,34,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(300, "Menacing Mantaurs", 0, 0, 0, "")
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (137,23,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student))
+First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student), 72, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(8, Grass (133,23,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 84)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (138,23,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(160, "Killed First Year Student")
+First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(First Year Student (/mob/Enemy/Soul_Reapers/Students/First_Year_Student), 70, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(4, Grass (144,23,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 84)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(200, "Academy Training", 0, 0, 0, "")
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Spyder Squasher", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 250, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (154,34,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Moving On", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 150, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (179,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(150, "Moving On", 0, 0, 0, "")
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (179,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Forestor", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 500, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+** 20:14:40 May, 04 2018 Server Shutdown Successfully **
+Average Players: 2 | CPU: 3%
+World opened on network port 9000.
+
+** 20:15:31 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+Fri May 04 20:15:56 2018
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Jackie (/mob/Player): QuestRefresh()
+Jackie (/mob/Player): Load(Players/l/lestatanderson1.sav (/savefile))
+LoadGame (80,17,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (80,17,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=2;icon-y=2;left=1;scree...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): Load(Players/p/poplighting1.sav (/savefile))
+LoadGame (80,16,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (80,16,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=26;icon-y=15;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: Goto NPC (/mob/HeadGM/verb/Goto_NPC)
+  source file: GM.dm,943
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (170,35,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): Goto NPC()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: CharCreation (48,10,2) (/turf/CharCreation/CharCreation)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Done (54,5,2) (/turf/CharCreation/Buttons/Done): Click(Done (54,5,2) (/turf/CharCreation/Buttons/Done), "MainWindow.MapMain", "icon-x=31;icon-y=5;left=1;scre...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (143,46,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Treezer (/mob/Enemy/Hollows/Treezer))
+Treezer (/mob/Enemy/Hollows/Treezer): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Treezer (/mob/Enemy/Hollows/Treezer), 49, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): Load(Players/k/killadjkat1.sav (/savefile))
+LoadGame (79,16,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (79,16,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=18;icon-y=20;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: AllPass (50,89,1) (/turf/Supplemental/AllPass)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): QuestComplete(25, "Basic Training", null, null, null, "/obj/Items/Potions/Energy_Drin...")
+Newbie Trainer (/obj/NPC/Newbie_Trainer): DblClick(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(500, "Forestor", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: AllPass (49,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): QuestComplete(50, "Combat Training", null, null, null, "/obj/Items/Potions/Phoenix_Fea...")
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: AllPass (49,59,1) (/turf/Supplemental/AllPass)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): QuestAdd("Hollow Practice", SideWalk (50,59,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Snaking Suspicion", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 550, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: Dirt (68,60,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): LevelCheck()
+Coolcarsdude (/mob/Player): GiveExp(130, "Killed Pounder")
+Pounder (/mob/Enemy/Hollows/Pounder): DeathCheck(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): Damage(Pounder (/mob/Enemy/Hollows/Pounder), 37, null, 1, "Melee")
+Coolcarsdude (/mob/Player): Attack(3)
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: Dirt (76,60,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): LevelCheck()
+Coolcarsdude (/mob/Player): GiveExp(170, "Killed Pounder")
+Pounder (/mob/Enemy/Hollows/Pounder): DeathCheck(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): Damage(Pounder (/mob/Enemy/Hollows/Pounder), 19, null, 1, "Melee")
+Coolcarsdude (/mob/Player): Attack(3)
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): QuestComplete(75, "Hollow Practice", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): QuestComplete(125, "Level Training", null, null, null, null)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (87,77,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(1710, "Killed Wulf")
+Wulf (/mob/Enemy/Hollows/Wulf): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Wulf (/mob/Enemy/Hollows/Wulf), 18, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: AllPass (50,52,1) (/turf/Supplemental/AllPass)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): QuestAdd("Hollow Hunting", SideWalk (50,51,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Final Trainer (/obj/NPC/Final_Trainer): DblClick(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (108,39,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(230, "Killed Spyder")
+Spyder (/mob/Enemy/Hollows/Spyder): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Spyder (/mob/Enemy/Hollows/Spyder), 86, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, Grass (108,37,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 99.75)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (106,40,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Spyder (/mob/Enemy/Hollows/Spyder))
+Spyder (/mob/Enemy/Hollows/Spyder): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Spyder (/mob/Enemy/Hollows/Spyder), 86, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Grass (106,42,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 99.75)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: Dirt (33,62,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): LevelCheck()
+Coolcarsdude (/mob/Player): GiveExp(340, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 28, null, 1, "Melee")
+Coolcarsdude (/mob/Player): Attack(3)
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(250, "Spyder Squasher", 0, 0, 0, "")
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Menacing Mantaurs", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 300, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Revenge (/mob/Player)
+  src.loc: CharCreation (48,10,2) (/turf/CharCreation/CharCreation)
+  call stack:
+Revenge (/mob/Player): QuestRefresh()
+Done (54,5,2) (/turf/CharCreation/Buttons/Done): Click(Done (54,5,2) (/turf/CharCreation/Buttons/Done), "MainWindow.MapMain", "icon-x=9;icon-y=6;left=1;scree...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Coolcarsdude (/mob/Player)
+  src.loc: Dirt (27,70,1) (/turf/Soul_Society/Dirt)
+  call stack:
+Coolcarsdude (/mob/Player): QuestRefresh()
+Coolcarsdude (/mob/Player): LevelCheck()
+Coolcarsdude (/mob/Player): GiveExp(170, "Killed Flying Hollow")
+Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow): DeathCheck(Coolcarsdude (/mob/Player))
+Coolcarsdude (/mob/Player): Damage(Flying Hollow (/mob/Enemy/Hollows/Flying_Hollow), 36, null, 1, "Melee")
+Coolcarsdude (/mob/Player): Attack(3)
+Coolcarsdude (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Revenge (/mob/Player)
+  src.loc: AllPass (50,89,1) (/turf/Supplemental/AllPass)
+  call stack:
+Revenge (/mob/Player): QuestRefresh()
+Revenge (/mob/Player): QuestComplete(25, "Basic Training", null, null, null, "/obj/Items/Potions/Energy_Drin...")
+Newbie Trainer (/obj/NPC/Newbie_Trainer): DblClick(Revenge (/mob/Player))
+Revenge (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Revenge (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Revenge (/mob/Player): QuestRefresh()
+Revenge (/mob/Player): QuestComplete(50, "Combat Training", null, null, null, "/obj/Items/Potions/Phoenix_Fea...")
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Revenge (/mob/Player))
+Revenge (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Revenge (/mob/Player)
+  src.loc: AllPass (50,60,1) (/turf/Supplemental/AllPass)
+  call stack:
+Revenge (/mob/Player): QuestRefresh()
+Revenge (/mob/Player): QuestAdd("Hollow Practice", SideWalk (50,59,1) (/turf/Soul_Society/SideWalk), /list (/list), 0, 0)
+Combat Trainer (/obj/NPC/Combat_Trainer): DblClick(Revenge (/mob/Player))
+Revenge (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: CheckPlayer (/mob/proc/CheckPlayer)
+  source file: Procs.dm,252
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (155,30,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): CheckPlayer(Robin (/mob/Player))
+Check (/obj/HUD/CharOptions/Check): Click(null, "MainWindow.MapMain", "icon-x=20;icon-y=21;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: CheckPlayer (/mob/proc/CheckPlayer)
+  source file: Procs.dm,252
+  usr: (src)
+  src: Jackie (/mob/Player)
+  src.loc: Dirt (154,31,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Jackie (/mob/Player): CheckPlayer(Robin (/mob/Player))
+Check (/obj/HUD/CharOptions/Check): Click(null, "MainWindow.MapMain", "icon-x=24;icon-y=21;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: CheckPlayer (/mob/proc/CheckPlayer)
+  source file: Procs.dm,252
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (152,29,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): CheckPlayer(Robin (/mob/Player))
+Check (/obj/HUD/CharOptions/Check): Click(null, "MainWindow.MapMain", "icon-x=18;icon-y=24;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (152,91,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Slithar (/mob/Enemy/Hollows/Slithar))
+Slithar (/mob/Enemy/Hollows/Slithar): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Slithar (/mob/Enemy/Hollows/Slithar), 30, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (152,91,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(300, "Killed Slithar")
+Slithar (/mob/Enemy/Hollows/Slithar): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Slithar (/mob/Enemy/Hollows/Slithar), 30, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(550, "Snaking Suspicion", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (107,12,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(300, "Killed Mantaur")
+Mantaur (/mob/Enemy/Hollows/Mantaur): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Mantaur (/mob/Enemy/Hollows/Mantaur), 86, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Dirt (107,13,3) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 101.5)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Slime Suffocation", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 600, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (117,14,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Mantaur (/mob/Enemy/Hollows/Mantaur))
+Mantaur (/mob/Enemy/Hollows/Mantaur): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Mantaur (/mob/Enemy/Hollows/Mantaur), 103, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Dirt (117,18,3) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 120)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(300, "Menacing Mantaurs", 0, 0, 0, "")
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (153,33,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Moving On", Grass (153,34,3) (/turf/Soul_Society/Grass), /list (/list), 150, 0)
+Training Reaper (/obj/NPC/Quest_Giver/Training_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (178,44,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(150, "Moving On", 0, 0, 0, "")
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (178,44,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Forestor", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 500, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (151,58,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(350, "Killed Treezer")
+Treezer (/mob/Enemy/Hollows/Treezer): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Treezer (/mob/Enemy/Hollows/Treezer), 101, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(8, Grass (149,58,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 120)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (144,55,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Treezer (/mob/Enemy/Hollows/Treezer))
+Treezer (/mob/Enemy/Hollows/Treezer): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Treezer (/mob/Enemy/Hollows/Treezer), 97, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(4, Grass (150,55,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 120)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(500, "Forestor", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Snaking Suspicion", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 550, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (148,97,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(390, "Killed Slithar")
+Slithar (/mob/Enemy/Hollows/Slithar): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Slithar (/mob/Enemy/Hollows/Slithar), 94, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, Dirt (148,91,3) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 122)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Sand (175,91,3) (/turf/Soul_Society/Sand)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Sea Spine (/mob/Enemy/Hollows/Sea_Spine))
+Sea Spine (/mob/Enemy/Hollows/Sea_Spine): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Sea Spine (/mob/Enemy/Hollows/Sea_Spine), 38, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Sand (175,91,3) (/turf/Soul_Society/Sand)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(330, "Killed Sea Spine")
+Sea Spine (/mob/Enemy/Hollows/Sea_Spine): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Sea Spine (/mob/Enemy/Hollows/Sea_Spine), 38, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (146,82,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Slithar (/mob/Enemy/Hollows/Slithar))
+Slithar (/mob/Enemy/Hollows/Slithar): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Slithar (/mob/Enemy/Hollows/Slithar), 108, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Dirt (146,84,3) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 130)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (178,46,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(550, "Snaking Suspicion", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (178,46,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Slime Suffocation", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 600, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Sand (165,94,3) (/turf/Soul_Society/Sand)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(460, "Killed Sea Spine")
+Sea Spine (/mob/Enemy/Hollows/Sea_Spine): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Sea Spine (/mob/Enemy/Hollows/Sea_Spine), 105, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, Sand (165,93,3) (/turf/Soul_Society/Sand), Bob (/mob/Player), 130)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (178,44,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(600, "Slime Suffocation", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (178,44,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Scavangers", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 650, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Sand (165,84,3) (/turf/Soul_Society/Sand)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Sea Spine (/mob/Enemy/Hollows/Sea_Spine))
+Sea Spine (/mob/Enemy/Hollows/Sea_Spine): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Sea Spine (/mob/Enemy/Hollows/Sea_Spine), 101, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Sand (165,89,3) (/turf/Soul_Society/Sand), Bob (/mob/Player), 130)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(600, "Slime Suffocation", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Scavangers", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 650, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: CheckPlayer (/mob/proc/CheckPlayer)
+  source file: Procs.dm,252
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (104,95,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): CheckPlayer(Robin (/mob/Player))
+Check (/obj/HUD/CharOptions/Check): Click(null, "MainWindow.MapMain", "icon-x=19;icon-y=23;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (114,86,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(500, "Killed Spire Gull")
+Spire Gull (/mob/Enemy/Hollows/Spire_Gull): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Spire Gull (/mob/Enemy/Hollows/Spire_Gull), 108, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, Grass (114,88,3) (/turf/Soul_Society/Grass), Bob (/mob/Player), 138)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: TitleScreen (10,10,2) (/turf/CharCreation/TitleScreen)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): Load(Players/p/poplighting1.sav (/savefile))
+LoadGame (79,17,2) (/turf/CharCreation/Buttons/LoadGame): Click(LoadGame (79,17,2) (/turf/CharCreation/Buttons/LoadGame), "MainWindow.MapMain", "icon-x=3;icon-y=11;left=1;scre...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (127,89,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Spire Gull (/mob/Enemy/Hollows/Spire_Gull))
+Spire Gull (/mob/Enemy/Hollows/Spire_Gull): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Spire Gull (/mob/Enemy/Hollows/Spire_Gull), 119, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, Dirt (127,88,3) (/turf/Soul_Society/Dirt), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(650, "Scavangers", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("The Next Step", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 150, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(150, "The Next Step", 0, 0, 0, "")
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("The Floating Pillars", Dirt (183,17,3) (/turf/Soul_Society/Dirt), /list (/list), 750, 0)
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("A Birthday Wish", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 250, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: WoodenFloor (133,130,3) (/turf/Soul_Society/WoodenFloor)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(560, "Killed Tadite")
+Tadite (/mob/Enemy/Hollows/Tadite): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Tadite (/mob/Enemy/Hollows/Tadite), 114, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, SideWalk (133,132,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (113,96,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Spire Gull (/mob/Enemy/Hollows/Spire_Gull))
+Spire Gull (/mob/Enemy/Hollows/Spire_Gull): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Spire Gull (/mob/Enemy/Hollows/Spire_Gull), 47, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (113,96,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(390, "Killed Spire Gull")
+Spire Gull (/mob/Enemy/Hollows/Spire_Gull): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Spire Gull (/mob/Enemy/Hollows/Spire_Gull), 47, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (177,44,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(650, "Scavangers", 0, 0, 0, "")
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (177,44,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("The Next Step", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 150, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (184,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(150, "The Next Step", 0, 0, 0, "")
+Robin (/mob/Player): HighAttack()
+Fri May 04 20:50:10 2018
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (184,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("The Floating Pillars", Dirt (183,17,3) (/turf/Soul_Society/Dirt), /list (/list), 750, 0)
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Grass (177,45,3) (/turf/Soul_Society/Grass)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("A Birthday Wish", Grass (178,45,3) (/turf/Soul_Society/Grass), /list (/list), 250, 0)
+Guard Reaper (/obj/NPC/Quest_Giver/Guard_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: WoodenFloor (112,142,3) (/turf/Soul_Society/WoodenFloor)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Tadite (/mob/Enemy/Hollows/Tadite))
+Tadite (/mob/Enemy/Hollows/Tadite): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Tadite (/mob/Enemy/Hollows/Tadite), 113, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, WoodenFloor (112,139,3) (/turf/Soul_Society/WoodenFloor), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: WoodenFloor (112,142,3) (/turf/Soul_Society/WoodenFloor)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(430, "Killed Tadite")
+Tadite (/mob/Enemy/Hollows/Tadite): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Tadite (/mob/Enemy/Hollows/Tadite), 112, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, SideWalk (112,146,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: SideWalk (151,127,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Frogling (/mob/Enemy/Hollows/Frogling))
+Frogling (/mob/Enemy/Hollows/Frogling): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Frogling (/mob/Enemy/Hollows/Frogling), 103, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, WoodenFloor (151,121,3) (/turf/Soul_Society/WoodenFloor), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(750, "The Floating Pillars", 0, 0, 0, "")
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Boss: Frawg", Dirt (183,17,3) (/turf/Soul_Society/Dirt), /list (/list), 1500, 0)
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: Travel (/mob/proc/Travel)
+  source file: SpellProcs.dm,152
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: AllPass (174,48,3) (/turf/Supplemental/AllPass)
+  call stack:
+Robin (/mob/Player): Travel()
+Robin (/mob/Player): UseSkillProc("Travel")
+Robin (/mob/Player): UseSkill()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: SideWalk (160,109,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestKillCheck(Frawg (/mob/Enemy/Bosses/Frawg))
+Frawg (/mob/Enemy/Bosses/Frawg): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Frawg (/mob/Enemy/Bosses/Frawg), 79, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, SideWalk (160,110,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: SideWalk (160,109,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(5810, "Killed Frawg")
+Frawg (/mob/Enemy/Bosses/Frawg): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Frawg (/mob/Enemy/Bosses/Frawg), 79, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, SideWalk (160,110,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 146)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestComplete(1500, "Boss: Frawg", 0, 0, 0, "")
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): QuestAdd("Onward to Arial", Dirt (183,17,3) (/turf/Soul_Society/Dirt), /list (/list), 150, 0)
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Bob (/mob/Player))
+Bob (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: CheckPlayer (/mob/proc/CheckPlayer)
+  source file: Procs.dm,252
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (174,39,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): CheckPlayer(Bob (/mob/Player))
+Check (/obj/HUD/CharOptions/Check): Click(null, "MainWindow.MapMain", "icon-x=12;icon-y=25;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: CheckPlayer (/mob/proc/CheckPlayer)
+  source file: Procs.dm,252
+  usr: (src)
+  src: Bob (/mob/Player)
+  src.loc: Dirt (174,41,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Bob (/mob/Player): CheckPlayer(Robin (/mob/Player))
+Check (/obj/HUD/CharOptions/Check): Click(null, "MainWindow.MapMain", "icon-x=21;icon-y=24;left=1;scr...")
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: Bob (/mob/Player)
+  src: Robin (/mob/Player)
+  usr.loc: SideWalk (134,136,3) (/turf/Soul_Society/SideWalk)
+  src.loc: SideWalk (135,134,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Tadite (/mob/Enemy/Hollows/Tadite))
+Tadite (/mob/Enemy/Hollows/Tadite): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Tadite (/mob/Enemy/Hollows/Tadite), 282, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(1, SideWalk (134,141,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 170)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: Bob (/mob/Player)
+  src: Robin (/mob/Player)
+  usr.loc: SideWalk (123,159,3) (/turf/Soul_Society/SideWalk)
+  src.loc: SideWalk (120,160,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): LevelCheck()
+Robin (/mob/Player): GiveExp(87, "Party Killed Tadite")
+Tadite (/mob/Enemy/Hollows/Tadite): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Tadite (/mob/Enemy/Hollows/Tadite), 144, "Lightning", 0, "Mystic")
+Bob (/mob/Player): Damage(Tadite (/mob/Enemy/Hollows/Tadite), 168, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(8, SideWalk (121,159,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 170)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: Robin (/mob/Player)
+  src: Bob (/mob/Player)
+  usr.loc: SideWalk (159,148,3) (/turf/Soul_Society/SideWalk)
+  src.loc: SideWalk (158,139,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Bob (/mob/Player): QuestRefresh()
+Bob (/mob/Player): LevelCheck()
+Bob (/mob/Player): GiveExp(138, "Party Killed Frogling")
+Frogling (/mob/Enemy/Hollows/Frogling): DeathCheck(Robin (/mob/Player))
+Robin (/mob/Player): Damage(Frogling (/mob/Enemy/Hollows/Frogling), 33, null, 1, "Melee")
+Robin (/mob/Player): Attack(3)
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: Bob (/mob/Player)
+  src: Robin (/mob/Player)
+  usr.loc: SideWalk (147,122,3) (/turf/Soul_Society/SideWalk)
+  src.loc: SideWalk (145,125,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Frogling (/mob/Enemy/Hollows/Frogling))
+Frogling (/mob/Enemy/Hollows/Frogling): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Frogling (/mob/Enemy/Hollows/Frogling), 139, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(4, SideWalk (148,122,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 170)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(750, "The Floating Pillars", 0, 0, 0, "")
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestAdd("Boss: Frawg", Dirt (183,17,3) (/turf/Soul_Society/Dirt), /list (/list), 1500, 0)
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: Bob (/mob/Player)
+  src: Robin (/mob/Player)
+  usr.loc: SideWalk (162,116,3) (/turf/Soul_Society/SideWalk)
+  src.loc: SideWalk (157,111,3) (/turf/Soul_Society/SideWalk)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestKillCheck(Frawg (/mob/Enemy/Bosses/Frawg))
+Frawg (/mob/Enemy/Bosses/Frawg): DeathCheck(Bob (/mob/Player))
+Bob (/mob/Player): Damage(Frawg (/mob/Enemy/Bosses/Frawg), 116, "Lightning", 1, "Mystic")
+White Lightning (/obj/Damaging/White_Lightning): New(2, SideWalk (162,115,3) (/turf/Soul_Society/SideWalk), Bob (/mob/Player), 178)
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: QuestRefresh (/mob/proc/QuestRefresh)
+  source file: QuestSystem.dm,79
+  usr: (src)
+  src: Robin (/mob/Player)
+  src.loc: Dirt (182,17,3) (/turf/Soul_Society/Dirt)
+  call stack:
+Robin (/mob/Player): QuestRefresh()
+Robin (/mob/Player): QuestComplete(1500, "Boss: Frawg", 0, 0, 0, "")
+Alley Reaper (/obj/NPC/Quest_Giver/Alley_Reaper): DblClick(Robin (/mob/Player))
+Robin (/mob/Player): HighAttack()
+** 21:10:08 May, 04 2018 Server Shutdown Successfully **
+Average Players: 3 | CPU: 5%
+World opened on network port 9000.
+
+** 21:10:59 May, 04 2018 Running Bleach Eternity: Zeus Version 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+Fri May 04 21:52:58 2018
+** 21:52:48 May, 04 2018 Server Shutdown Successfully **
+Average Players: 3 | CPU: 4%
+World opened on network port 9000.
+
+** 21:53:39 May, 04 2018 Running The Players' Bleach Eternity 1.09 **
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/72.178.74.24:9000
+
+Fri May 04 21:53:18 2018
+Invalid network address in transmission (Subscribers.txt)
+runtime error: cannot append to list
+proc name: New (/world/New)
+  source file: Main2.dm,37
+  usr: null
+  src: world
+  call stack:
+world: New()
